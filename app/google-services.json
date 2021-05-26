@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22361744206",
+    "firebase_url": "https://facedetection-76ca5.firebaseio.com",
+    "project_id": "facedetection-76ca5",
+    "storage_bucket": "facedetection-76ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22361744206:android:ca341e869232b4cf85f41f",
+        "android_client_info": {
+          "package_name": "com.udemylearn.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22361744206-aoq303dgub6frhudv20u8otm41aupikp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udemylearn.facedetection",
+            "certificate_hash": "352409b1f69aef2cbeb47333700f30c5eb96fdbb"
+          }
+        },
+        {
+          "client_id": "22361744206-csg30jbtfb2u780thk2pgivv4r6ljf1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDa_fXplOSs4KFaI0dlUZq5XpdUlcH9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22361744206-csg30jbtfb2u780thk2pgivv4r6ljf1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
